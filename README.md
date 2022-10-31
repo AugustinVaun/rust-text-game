@@ -1,7 +1,10 @@
 # Adventure text game in Rust.
+Welcome to the Rust Adventure game!
 
+This game allowed me to try out different ways to have choices in Rust, with If-loops and match cases.
 
 ## Directions
-- Take the main.rs file and add to it using conditional logic to create a complete game.
-- The game (at at least one point) must go **5 levels deep.** i.e. There must be at least one point in the conditional logic that will require 5 conditional checks to reach the (5th) end point.
-- You may start from scratch if you prefer. 
+1. Download the files.
+2. Use "$rustc .\main.rs" in a terminal to compile the file
+3. run the program using $.\main.exe
+4. Have fun!
